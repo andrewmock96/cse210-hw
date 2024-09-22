@@ -12,7 +12,7 @@ class Program
         string letter = "";
         string sign = "";
 
-        if ( grade >= 90)
+        if (grade >= 90)
         {
             letter = "A";
         }
