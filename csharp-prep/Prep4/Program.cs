@@ -43,7 +43,7 @@ class Program
         //Display the sum, average, and max
         Console.WriteLine($"The sum is: {sum}");
         Console.WriteLine($"The average is: {average}");
-        Console.WriteLine($"The max number is:{max}");
+        Console.WriteLine($"The max number is: {max}");
 
     }
 }
