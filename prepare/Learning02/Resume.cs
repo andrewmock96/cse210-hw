@@ -3,7 +3,7 @@ using System;
 public class Resume
 {
     public string _name;
-    public List<Job>_jobs = new List<Job>();
+    public List<Job> _jobs = new List<Job>();
 
     public void DisplayJobDetails()
     {
@@ -11,7 +11,7 @@ public class Resume
         Console.WriteLine("Jobs:");
         foreach (Job job in _jobs)
         {
-            _jobs.DisplayJobDetails();
+            job.DisplayJobDetails();
         } 
     }
 }
