@@ -30,7 +30,7 @@ class Program
                 {
                     journal.AddEntry();
                 }
-                //Displaying all saved responses
+                //Displaying all saved responses, and the actual time that it was entered
                 if (userResponse == 2)
                 {
                     journal.DisplayEntries();
