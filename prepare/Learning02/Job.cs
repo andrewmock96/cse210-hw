@@ -1,15 +1,14 @@
 using System;
 
-class Program
+public class Job
 {
-    static void Main(string[] args)
+    public string _company;
+    public string _jobTitle;
+    public int _startYear;
+    public int _endYear;
+
+    public void DisplayJobDetails()
     {
-        public class Job
-        {
-            public string _company = "";
-            public string _jobTitle = "";
-            public double _startYear = new Job();
-            public double _endYear = new Job();
-        }
+            console.WriteLine($"{_jobTitle} ({_company}) {_startYear}-{_endYear}");
     }
 }
