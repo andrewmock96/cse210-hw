@@ -1,0 +1,4 @@
+100
+SimpleGoal|Prestige Master (Simple Goal): [X] - Reach 'Prestige Master' on Call of Duty Black Ops 6
+EternalGoal|Read scriptures (Eternal Goal): [∞] - Daily scripture reading
+ChecklistGoal|Attend temple session (Checklist Goal): Completed 1/10 - Complete ten temple sesions
